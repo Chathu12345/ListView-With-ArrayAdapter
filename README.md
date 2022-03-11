@@ -1,5 +1,5 @@
 # ListViewWithArrayAdapter
-This project created using Default String ArrayAdapter
+This project created using Default String ArrayAdapter...
 
 You can also see my final ListView output below,
 <br>
